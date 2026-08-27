@@ -8,7 +8,7 @@ All customer identities, billing records, contracts, network conditions, and car
 
 ## Workshop workbook
 
-The complete workshop instructions are available in [WORKBOOK.md](WORKBOOK.md). The repository copy includes English and German participant guidance plus facilitator notes; the [source Google Doc](https://docs.google.com/document/d/1NBx0-OqFMN2cwN2Z1wl5DJyTYFhshxNUjMs7TCyb_Ew) remains the editable source of truth.
+The complete workshop instructions are available in [WORKBOOK.md](WORKBOOK.md). The repository copy includes English and German participant guidance.
 
 ## Demo experiences
 

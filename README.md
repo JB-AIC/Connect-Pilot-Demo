@@ -6,6 +6,10 @@ A bilingual, local-first telecom customer-service and incident-response demonstr
 
 All customer identities, billing records, contracts, network conditions, and carrier actions are fictional. The application does not connect to real telecommunications systems.
 
+## Workshop workbook
+
+The complete workshop instructions are available in [WORKBOOK.md](WORKBOOK.md). The repository copy includes English and German participant guidance plus facilitator notes; the [source Google Doc](https://docs.google.com/document/d/1NBx0-OqFMN2cwN2Z1wl5DJyTYFhshxNUjMs7TCyb_Ew) remains the editable source of truth.
+
 ## Demo experiences
 
 | Experience | Local URL | Purpose |

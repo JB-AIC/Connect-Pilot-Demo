@@ -6,7 +6,7 @@
 
 ## Option 1: Download from GitHub
 
-If you downloaded this project as a ZIP from [GitHub](https://github.com/openai/Connect-Pilot-Demo), open the extracted project folder in a terminal and run these commands before starting the workshop:
+If you downloaded this project as a ZIP from [GitHub](https://github.com/JB-AIC/Connect-Pilot-Demo), open the extracted project folder in a terminal and run these commands before starting the workshop:
 
 ```
 git init

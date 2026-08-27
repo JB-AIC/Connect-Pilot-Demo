@@ -1,0 +1,25 @@
+{
+  "name": "connect-copilot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A bilingual, local-first telecom customer-service demonstration.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "vite build",
+    "serve": "NODE_ENV=production node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.0.0"
+  }
+}
